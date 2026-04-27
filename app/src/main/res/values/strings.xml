@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SailApp</string>
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_track">Track</string>
+    <string name="nav_statistics">Statistics</string>
+    <string name="nav_regatta">Regatta</string>
+    <string name="recording_notification_channel_id">recording_channel</string>
+    <string name="recording_notification_channel_name">Recording</string>
+    <string name="recording_notification_title">Recording Trip</string>
+    <string name="action_start">Start</string>
+    <string name="action_pause">Pause</string>
+    <string name="action_resume">Resume</string>
+    <string name="action_stop">Stop</string>
+    <string name="action_mark_waypoint">Mark Waypoint</string>
+    <string name="export_gpx">Export GPX</string>
+    <string name="export_csv">Export CSV</string>
+</resources>
